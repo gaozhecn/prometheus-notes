@@ -5,7 +5,7 @@
 * [什么是prometheus](shi-yao-shi-prometheus.md)
 * prometheus安装
 * [监控](ji-ben-jian-kong.md)
-  * 服务器基本监控
+  * [服务器基本监控](ji-ben-jian-kong/fu-wu-qi-ji-ben-jian-kong.md)
   * [Docker监控](ji-ben-jian-kong/dockerjian-kong.md)
 * [监控可视化](jian-kong-ke-shi-hua.md)
 
