@@ -6,14 +6,15 @@
 
 ```
 grafana-cli plugins install raintank-worldping-app
-
 ```
 
 重启grafana服务
 
-`systemctl restart grafana-server.service`
+```
+systemctl restart grafana-server.service
+```
 
-### 配置 API {#toc_3}
+配置 API
 
 
 
