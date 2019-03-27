@@ -16,9 +16,7 @@ RUN chmod -R 777 /etc/prometheus/prometheus.yml
 EXPOSE 9090
 ```
 
-```
-命令
-```
+### 命令
 
 
 
