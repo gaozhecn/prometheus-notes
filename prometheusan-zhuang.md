@@ -9,10 +9,18 @@ docker run -d -p 9090:9090 -v /home/prometheus_test/prometheus.yml:/etc/promethe
 ### Dockfile 如下 {#toc_2}
 
 ```
-FROM prom/prometheus USER root ADD ./fy-prometheus.yml /etc/prometheus/prometheus.yml RUN chmod -R 777 /etc/prometheus/prometheus.yml EXPOSE 9090
+FROM prom/prometheus
+USER root
+ADD ./fy-prometheus.yml /etc/prometheus/prometheus.yml
+RUN chmod -R 777 /etc/prometheus/prometheus.yml
+EXPOSE 9090
 ```
 
-### 命令 {#toc_3}
+
+
+```
+### 命令
+```
 
 ```
 docker build -t i_prometheus_server . docker images | grep i_prometheus_server docker run -d -it -P --name prometheus_server_container i_prometheus_server
@@ -33,8 +41,6 @@ scrape_configs:
     static_configs:
       - targets: ['58.87.93.139:8080']
 ```
-
-
 
 
 
