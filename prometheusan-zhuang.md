@@ -18,8 +18,6 @@ EXPOSE 9090
 
 ### 命令
 
-
-
 ```
 docker build -t i_prometheus_server . docker images | grep i_prometheus_server docker run -d -it -P --name prometheus_server_container i_prometheus_server
 ```
