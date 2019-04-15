@@ -8,17 +8,16 @@
 grafana-cli plugins install raintank-worldping-app
 ```
 
-
-
 重启grafana服务
 
 ```
 systemctl restart grafana-server.service
 ```
 
-
-
 配置 API
 
+当前的 API KEY是eyJrIjoiaVNvVEgwQk1uaGl0dkQ3WVVjWjBNbHhndFhhZU0ybE4iLCJuIjoiYWRtaW4iLCJpZCI6MX0=
+
+  
 
 
