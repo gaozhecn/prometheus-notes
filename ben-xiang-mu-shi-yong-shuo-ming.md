@@ -11,7 +11,7 @@ $ cd client
 $ docker-compose -f docker-compose-prod.yml up -d
 $ docker ps
 ################# prometheus服务器如下 #################
-$ cd client
+$ cd server
 $ docker-compose -f docker-compose-prod.yml up -d
 $ docker ps
 ```
