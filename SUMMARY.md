@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [为什么需要监控](wei-shi-yao-xu-yao-jian-kong.md)
+* [初识](wei-shi-yao-xu-yao-jian-kong.md)
 * [为什么会有prometheus](wei-shi-yao-hui-you-prometheus.md)
 * [什么是prometheus](shi-yao-shi-prometheus.md)
 * [prometheus安装](prometheusan-zhuang.md)
