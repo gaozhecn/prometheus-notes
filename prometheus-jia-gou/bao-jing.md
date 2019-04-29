@@ -16,5 +16,5 @@ Alertmanager作为一个独立的组件，负责接收并处理来自Prometheus 
 
 Alertmanager除了提供基本的告警通知能力以外，还主要提供了如：分组、抑制以及静默等告警特性：
 
-![](/assets/alertmanager.png)
+![](/assets/alertmanager.png)详细参考官方文档
 
