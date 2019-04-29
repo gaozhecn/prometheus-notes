@@ -18,7 +18,7 @@ $ cd server
 $ docker-compose -f docker-compose-prod.yml up -d
 # docker ps查看运行起来的容器，确认包含prometheus、blackbox_exporter、alertmanager、grafana、alert_web_hook
 $ docker ps
-# 打开浏览器访问 {{IP}}:9090、{{IP}}:9115、{{IP}}:9093、、{{IP}}:3000、{{IP}}:5000查看是否访问正常
+# 打开浏览器访问 {{IP}}:9090、{{IP}}:9115、{{IP}}:9093、{{IP}}:3000、{{IP}}:5000查看是否访问正常
 ```
 
 ## 注意
