@@ -11,7 +11,7 @@ $ cd client
 $ docker-compose -f docker-compose-prod.yml up -d
 # docker ps查看运行起来的容器，确认包含cadvisor和node_exporter
 $ docker ps
-# 打开浏览器访问 {{IP}}:9100和{{IP}}:8082
+# 打开浏览器访问 {{IP}}:9100和{{IP}}:8082查看是否访问正常。
 
 ################# prometheus服务器如下 #################
 $ cd server
