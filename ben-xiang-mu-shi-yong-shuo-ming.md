@@ -16,7 +16,7 @@ $ docker ps
 ################# prometheus服务器如下 #################
 $ cd server
 $ docker-compose -f docker-compose-prod.yml up -d
-# docker ps查看运行起来的容器，确认包含cadvisor和node_exporter
+# docker ps查看运行起来的容器，确认包含prometheus、blackbox_exporter、alertmanager、grafana、alert_web_hook
 $ docker ps
 ```
 
