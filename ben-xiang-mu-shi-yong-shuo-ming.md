@@ -9,6 +9,7 @@
 ################# 被监控主机如下 #################
 $ cd client
 $ docker-compose -f docker-compose-prod.yml up -d
+# docker ps查看运行起来的容器，确认包含cadvisor和node_exporter
 $ docker ps
 ################# prometheus服务器如下 #################
 $ cd server
