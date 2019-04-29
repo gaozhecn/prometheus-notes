@@ -15,10 +15,8 @@
 Prometheus社区提供了丰富的Exporter实现，涵盖了从基础设施，中间件以及网络等各个方面的监控功能。这些Exporter可以实现大部分通用的监控需求。下表列举一些社区中常用的Exporter：
 
 | 范围 | 常用Exporter |
-| :--- | :--- |
-| 数据库 |  |
-
-
+| :---: | :---: |
+| 数据库 | MySQL Exporter, Redis Exporter, MongoDB Exporter, MSSQL Exporter等 |
 
 * 用户自定义的
 
