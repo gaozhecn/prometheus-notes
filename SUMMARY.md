@@ -6,6 +6,7 @@
 * [prometheus 架构](prometheus-jia-gou.md)
   * [特点](prometheus-jia-gou/te-dian.md)
   * [Exporter](prometheus-jia-gou/exporter.md)
+  * 报警
 * [监控](ji-ben-jian-kong.md)
   * [服务器基本监控](ji-ben-jian-kong/fu-wu-qi-ji-ben-jian-kong.md)
   * [Docker监控](ji-ben-jian-kong/dockerjian-kong.md)
