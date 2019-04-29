@@ -21,5 +21,9 @@ $ docker ps
 # 打开浏览器访问 {{IP}}:9090、{{IP}}:9115、{{IP}}:9093、、{{IP}}:3000、{{IP}}:5000查看是否访问正常
 ```
 
+## 注意
+
+在客户端部署完 exporter 之后，需要在 prometheus的服务器的配置文件prometheus.yml 文件中添加新的监控点。
+
 本项目拉取代码，代码中包含启动 Docker编排文件 docker-compoer.yml，其他的一些配置文件，挂载目录。
 
