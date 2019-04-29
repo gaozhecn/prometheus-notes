@@ -71,5 +71,3 @@ Prometheus Server中自带了一个Prometheus UI，通过这个UI可以方便地
 
 因此你甚至可以在不使用Prometheus的情况下，采用Prometheus的client library来让你的应用程序支持监控数据采集。
 
-接下来，在本书当中，将带领读者感受Prometheus是如何对监控系统的重新定义。
-
