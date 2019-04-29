@@ -16,5 +16,7 @@ Prometheus社区提供了丰富的Exporter实现，涵盖了从基础设施，�
 
 ## 现在使用的Exporter
 
+* 服务器基本信息监控 node-exporter
+
 
 
