@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [监控简介](wei-shi-yao-xu-yao-jian-kong.md)
 * [prometheus简介](shi-yao-shi-prometheus.md)
-* [prometheus安装](prometheusan-zhuang.md)
+* [prometheus 架构](prometheus-jia-gou.md)
 * [监控](ji-ben-jian-kong.md)
   * [服务器基本监控](ji-ben-jian-kong/fu-wu-qi-ji-ben-jian-kong.md)
   * [Docker监控](ji-ben-jian-kong/dockerjian-kong.md)
@@ -11,4 +11,5 @@
 * [监控可视化](jian-kong-ke-shi-hua.md)
   * [grafana](jian-kong-ke-shi-hua/grafana.md)
 * [监控接口](jian-kong-jie-kou.md)
+* [prometheus安装](prometheusan-zhuang.md)
 
