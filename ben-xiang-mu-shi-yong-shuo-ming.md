@@ -17,7 +17,6 @@ $ docker ps
 $ cd server
 $ docker-compose -f docker-compose-prod.yml up -d
 # docker ps查看运行起来的容器，确认包含cadvisor和node_exporter
-
 $ docker ps
 ```
 
