@@ -18,7 +18,7 @@ Prometheus社区提供了丰富的Exporter实现，涵盖了从基础设施，�
 
 #### 主机基本信息监控 node-exporter
 
-主机基本信息监控，CPU、内存、文件、网络
+主机基本信息监控，CPU、内存、文件、网络流量、系统负载、磁盘使用、TCP 链接
 
 #### 容器监控cadvisor
 
