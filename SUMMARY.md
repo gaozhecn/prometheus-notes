@@ -6,7 +6,7 @@
 * [prometheus 架构](prometheus-jia-gou.md)
   * [特点](prometheus-jia-gou/te-dian.md)
   * [Exporter](prometheus-jia-gou/exporter.md)
-  * 报警
+  * [报警](prometheus-jia-gou/bao-jing.md)
 * [监控](ji-ben-jian-kong.md)
   * [服务器基本监控](ji-ben-jian-kong/fu-wu-qi-ji-ben-jian-kong.md)
   * [Docker监控](ji-ben-jian-kong/dockerjian-kong.md)
@@ -16,4 +16,5 @@
 * [监控接口](jian-kong-jie-kou.md)
 * [prometheus安装](prometheusan-zhuang.md)
 * [本项目使用说明](ben-xiang-mu-shi-yong-shuo-ming.md)
+  * [简介](ben-xiang-mu-shi-yong-shuo-ming/jian-jie.md)
 
