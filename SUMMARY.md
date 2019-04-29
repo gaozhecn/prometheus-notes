@@ -17,4 +17,5 @@
 * [prometheus安装](prometheusan-zhuang.md)
 * [本项目使用说明](ben-xiang-mu-shi-yong-shuo-ming.md)
   * [简介](ben-xiang-mu-shi-yong-shuo-ming/jian-jie.md)
+  * [使用](ben-xiang-mu-shi-yong-shuo-ming/shi-yong.md)
 
