@@ -18,13 +18,9 @@ Prometheus社区提供了丰富的Exporter实现，涵盖了从基础设施，�
 
 #### 主机基本信息监控 node-exporter
 
-
-
 #### 容器监控cadvisor
-
-
 
 #### 网络探针Blackbox Exporter
 
-
+Blackbox Exporter是Prometheus社区提供的官方黑盒监控解决方案，其允许用户通过：HTTP、HTTPS、DNS、TCP以及ICMP的方式对网络进行探测。
 
