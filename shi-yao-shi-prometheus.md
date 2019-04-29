@@ -47,7 +47,7 @@ Prometheus内置了一个强大的数据查询语言PromQL。 通过PromQL可以
 
 * 每秒处理数十万的数据点。
 
-可扩展
+#### 可扩展
 
 Prometheus是如此简单，因此你可以在每个数据中心、每个团队运行独立的Prometheus Sevrer。Prometheus对于联邦集群的支持，可以让多个Prometheus实例产生一个逻辑集群，当单实例Prometheus Server处理的任务量过大时，通过使用功能分区\(sharding\)+联邦集群\(federation\)可以对其进行扩展。
 
