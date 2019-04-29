@@ -20,7 +20,7 @@ Prometheus社区提供了丰富的Exporter实现，涵盖了从基础设施，�
 
 #### 容器监控cadvisor
 
-#### 网络探针Blackbox Exporter
+CAdvisor是Google开源的一款用于展示和分析容器运行状态的可视化工具。通过在主机上运行CAdvisor用户可以轻松的获取到当前主机上容器的运行统计信息，并以图表的形式向用户展示。网络探针Blackbox Exporter
 
 Blackbox Exporter是Prometheus社区提供的官方黑盒监控解决方案，其允许用户通过：HTTP、HTTPS、DNS、TCP以及ICMP的方式对网络进行探测。
 
