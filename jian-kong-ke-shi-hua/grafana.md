@@ -16,14 +16,11 @@ systemctl restart grafana-server.service
 
 配置 API
 
-当前的 API KEY是eyJrIjoiaVNvVEgwQk1uaGl0dkQ3WVVjWjBNbHhndFhhZU0ybE4iLCJuIjoiYWRtaW4iLCJpZCI6MX0=
-
-
+当前的 API KEY是\*\*\*
 
 ```
-curl -H "Authorization: Bearer eyJrIjoiaVNvVEgwQk1uaGl0dkQ3WVVjWjBNbHhndFhhZU0ybE4iLCJuIjoiYWRtaW4iLCJpZCI6MX0=" http://152.136.41.107:3000/api/dashboards/home
+curl -H "Authorization: Bearer {{API KEY}}=" http://152.136.41.107:3000/api/dashboards/home
 ```
 
-  
 ![](/assets/api-key.png)
 
