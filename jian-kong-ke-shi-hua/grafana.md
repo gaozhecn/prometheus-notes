@@ -19,7 +19,7 @@ systemctl restart grafana-server.service
 当前的 API KEY是\*\*\*
 
 ```
-curl -H "Authorization: Bearer {{API KEY}}=" http://152.136.41.107:3000/api/dashboards/home
+curl -H "Authorization: Bearer {{API KEY}}=" http://{{PROMETHEUS_IP}}:3000/api/dashboards/home
 ```
 
 ![](/assets/api-key.png)
