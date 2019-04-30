@@ -11,7 +11,6 @@
   * [简介](ben-xiang-mu-shi-yong-shuo-ming/jian-jie.md)
   * [使用](ben-xiang-mu-shi-yong-shuo-ming/shi-yong.md)
 * [单步使用](dan-bu-shi-yong.md)
-  * 使用介绍
   * [prometheus安装-不用看](prometheusan-zhuang.md)
   * [监控可视化-不用看](jian-kong-ke-shi-hua.md)
     * [grafana](jian-kong-ke-shi-hua/grafana.md)
