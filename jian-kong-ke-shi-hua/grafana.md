@@ -22,5 +22,5 @@ systemctl restart grafana-server.service
 curl -H "Authorization: Bearer {{API KEY}}=" http://{{PROMETHEUS_IP}}:3000/api/dashboards/home
 ```
 
-![](/assets/api-key.png)
+
 
